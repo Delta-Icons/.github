@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://github.com/Delta-Icons/.github/raw/master/.github/logo.svg"/>
+  <img width="100" src="https://github.com/Delta-Icons/.github/raw/master/.github/logo.svg"/>
 </p>
 
 <h2 align="center" padding="100">Delta Icons</h2>
