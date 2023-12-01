@@ -27,6 +27,18 @@
   </a>
 </p>
 
+## Linux 
+
+<p align="center">
+  <a href="https://github.com/Delta-Icons/android/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Delta-Icons/linux?labelColor=56595b&color=73ada4&logo=linux&logoColor=ffffff&label=release&style=for-the-badge"/>
+  </a>
+</p>
+
+```bash
+curl -s https://delta-icons.github.io/linux | sh
+```
+
 ## Discord
 
 ✋ The server is **not** intended for requests!
