@@ -36,7 +36,7 @@
 </p>
 
 ```bash
-curl -s https://delta-icons.github.io/linux | sh
+curl -sL delta-icons.github.io/linux | sh
 ```
 
 ## Discord
