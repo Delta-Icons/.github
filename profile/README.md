@@ -30,7 +30,7 @@
 ## Linux 
 
 <p align="center">
-  <a href="https://github.com/Delta-Icons/android/releases/latest">
+  <a href="https://github.com/Delta-Icons/linux/releases/latest">
     <img src="https://img.shields.io/github/v/release/Delta-Icons/linux?labelColor=56595b&color=73ada4&logo=linux&logoColor=ffffff&label=release&style=for-the-badge"/>
   </a>
 </p>
